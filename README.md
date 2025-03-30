@@ -7,5 +7,5 @@ A research project on integrating transposons into GAs to enhance optimization p
 - Open and execute `/main.py`.
 
 ## How to customize
--You can play with some parameters by modifying the defined constants in `/Utils/Constants.py`.
--You can further customize the execution by modifying some additional constants defined in `main.py`. They are defined there for comfort purposes.
+- You can play with some parameters by modifying the defined constants in `/Utils/Constants.py`.
+- You can further customize the execution by modifying some additional constants defined in `main.py`. They are defined there for comfort purposes.
